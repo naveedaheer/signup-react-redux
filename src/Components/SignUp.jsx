@@ -92,7 +92,7 @@ class SignupComponent extends React.Component {
                 </form>
                 <div>
                     
-                    <Link to="/signin" > SignIn </Link>
+                    <Link to="/login" > SignIn </Link>
                 </div>
                 </center>
             </div>
